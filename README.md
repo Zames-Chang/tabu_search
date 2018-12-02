@@ -18,4 +18,4 @@ tabu list size = 0
 steps = 1000000
 ```
 program usage<br>
-<img src="usage.png">
+<img src="usages.png">
