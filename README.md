@@ -9,12 +9,13 @@ Due_Date = [50,38,49,12,20,105,73,45,6,64,15,6,92,43,78,21,15,50,150,99]<br>
 Weights = [10,5,1,5,10,1,5,10,5,1,5,10,10,5,1,10,5,5,1,5]<br>\
 ```
 ## result
+```
 approximate optimal solution : [20, 12, 17, 5, 4, 11, 16, 1, 7, 9, 8, 2, 14, 15, 10, 13, 3, 6, 18, 19]<br>
 fitness function value 2577<br>
 running time : 325s<br>
 
 tabu list size = 0<br>
 steps = 1000000<br>
-
+```
 program usage<br>
 <img src="usage.png">
